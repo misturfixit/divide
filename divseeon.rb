@@ -18,4 +18,4 @@ def divide
 
 end
 
-       puts divide
+       p divide
