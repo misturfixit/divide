@@ -12,10 +12,12 @@ def divide
 
 		          else
 
-		          	  c = a / b 
-
+         		    p    "  remainder is rounded     #{ c = a / b }" 
+		          	  
                   end
+                  
 
 end
+      
 
-       p divide
+        divide
